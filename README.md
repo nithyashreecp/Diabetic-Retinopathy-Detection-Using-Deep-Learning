@@ -1,1 +1,1 @@
-# Diabetic-Retinopathy-Detection-Using-Deep-Learning
+# RetinaAI
